@@ -1,9 +1,14 @@
 html, body {
     height: 100vh;
+    font-family: sans-serif
 }
 body{
-background-image: ;
+background-image: url("../Images/Marble.jpg");
 
 }
+svg:hover path, svg:hover polygon{
+    fill: #D4AF37;
+  }
+
 
 
